@@ -1,3 +1,3 @@
 number = [1,2,3,4,5]
-for x in number:
-    print(x)
+for  number in range(1,6,+1):
+    print(number)
