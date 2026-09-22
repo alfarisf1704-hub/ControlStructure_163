@@ -19,3 +19,11 @@ while number != "C":
     number = input("Choose the big one! : ")
 print("Nice, good choice!")
 
+
+#3S
+for steps in range(10):
+    print(S)
+
+#4
+
+#5
